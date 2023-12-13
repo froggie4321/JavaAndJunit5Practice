@@ -27,7 +27,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("java.and.junit5.practice.HelloWorld")
+    mainClass.set("javaandjunit5practice.App")
 }
 
 tasks.named<Test>("test") {
